@@ -3,7 +3,7 @@
 package tail
 
 import (
-	"github.com/nxadm/tail/winfile"
+	"github.com/silentred/tail/winfile"
 	"os"
 )
 

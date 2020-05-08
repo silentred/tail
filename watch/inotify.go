@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nxadm/tail/util"
+	"github.com/silentred/tail/util"
 
-    "github.com/fsnotify/fsnotify"
+	"github.com/fsnotify/fsnotify"
 	"gopkg.in/tomb.v1"
 )
 

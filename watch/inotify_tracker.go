@@ -10,9 +10,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/nxadm/tail/util"
-
-    "github.com/fsnotify/fsnotify"
+	"github.com/fsnotify/fsnotify"
+	"github.com/silentred/tail/util"
 )
 
 type InotifyTracker struct {

@@ -15,9 +15,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nxadm/tail/ratelimiter"
-	"github.com/nxadm/tail/util"
-	"github.com/nxadm/tail/watch"
+	"github.com/silentred/tail/ratelimiter"
+	"github.com/silentred/tail/util"
+	"github.com/silentred/tail/watch"
 	"gopkg.in/tomb.v1"
 )
 

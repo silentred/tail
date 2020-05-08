@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nxadm/tail.svg?branch=master)](https://travis-ci.org/nxadm/tail)
+[![Build Status](https://travis-ci.org/silentred/tail.svg?branch=master)](https://travis-ci.org/silentred/tail)
 
 This is repo is forked from the dormant upstream repo at
 [hpcloud](https://github.com/hpcloud/tail). This fork adds support for go
@@ -20,7 +20,7 @@ for line := range t.Lines {
 }
 ```
 
-See [API documentation](http://godoc.org/github.com/nxadm/tail).
+See [API documentation](http://godoc.org/github.com/silentred/tail).
 
 ## Log rotation
 
@@ -29,8 +29,8 @@ designed to work with log rotation tools.
 
 ## Installing
 
-    go get github.com/nxadm/tail/...
+    go get github.com/silentred/tail/...
 
 ## Windows support
 
-This package [needs assistance](https://github.com/nxadm/tail/labels/Windows) for full Windows support.
+This package [needs assistance](https://github.com/silentred/tail/labels/Windows) for full Windows support.

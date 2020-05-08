@@ -15,8 +15,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nxadm/tail/ratelimiter"
-	"github.com/nxadm/tail/watch"
+	"github.com/silentred/tail/ratelimiter"
+	"github.com/silentred/tail/watch"
 )
 
 func init() {
